@@ -1,0 +1,22 @@
+.heading1{
+    background-color:darkgray;
+}
+body{
+    text-align: center;
+}
+.add{
+    background-color:red;
+    font-family: 'Courier New', Courier, monospace;
+}
+.resert{
+background-color:darkgoldenrod;
+font-family: 'Courier New', Courier, monospace;
+}
+.incresmnt{
+    background-color:blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.table{
+    background-color: lawngreen;
+    font-family: 'Courier New', Courier, monospace;
+}
